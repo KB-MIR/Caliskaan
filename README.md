@@ -3,7 +3,7 @@
 ## I am Jawad Ahmed 👨‍💻
 
 
-Here are some ideas to get you started:
+### About Me:
 
 - 🔭 I’m Studying Fast in BS Computer Science
 - 🌱 I’m currently learning PYTHON , WebDesigning
